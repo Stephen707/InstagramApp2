@@ -43,7 +43,7 @@ import pub.devrel.easypermissions.EasyPermissions;
 public class ParsePhoto extends AppCompatActivity {
     ImageView bsck,takephoto;
 
-    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
